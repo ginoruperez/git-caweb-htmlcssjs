@@ -1,6 +1,8 @@
 # git-caweb-htmlcssjs
  
 Business Case
+
+
 Celtic Sea Dive Shop
 Gino Ruperez is the owner of Celtic Sea Dive Shop located in Kinsale, Southwest coast of Ireland near Celtic Sea. It has been in operation since 2015 in Ireland. The idea of forming a Dive Shop is one of dreams by owner who has greatly influenced and inspired by his spectacular experiences in doing underwater activities by his PADI professional diving instructors and diving friends who work from Jeddah Saudi Arabia as an expat for several years. Diving in the Red Sea is a fun filled recreational activities that helps them to alleviate the boredom and loneliness of being thousands of miles away from their family. 
 The owner got an interest in pursuing a goal of learning to dive in an open water of Red Sea in the south of Jeddah while he was working in Saudi as an expat. Fortunately, he met his professional PADI Irish instructor David John Walker and few diving buddies. 
